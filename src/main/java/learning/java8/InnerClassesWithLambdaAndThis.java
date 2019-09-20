@@ -45,4 +45,5 @@ class Hello {
 	public String toString() {
 		return "Hello's instance toString()";
 	}
+
 }
