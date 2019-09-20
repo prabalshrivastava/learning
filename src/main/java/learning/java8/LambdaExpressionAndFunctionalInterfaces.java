@@ -63,7 +63,15 @@ class LambdaExpressionImpl {
 		
 		//2 error
 		//two = (a,b) -> return a+b;
-						
+
+		//Trying to assign it to the Object class
+		//Object o = (a,b) -> {return a+b;};
+
+
+		//we can assign by typecasting it
+		Object o =(TwoParamFI) (a,b) -> {return a+b;};
+
+
 	}
 }
 //Functional interfaces are also called Single Abstract Method interfaces (SAM Interfaces). 
