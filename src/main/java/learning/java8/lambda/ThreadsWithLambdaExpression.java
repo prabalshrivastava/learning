@@ -1,4 +1,4 @@
-package learning.java8;
+package learning.java8.lambda;
 public class ThreadsWithLambdaExpression {
     public static void main(String[] args) {
     	

@@ -80,3 +80,9 @@ class MemberOuterClass{
     //static protected class  NscProtectedFinalInherit1 extends NscPublicFinal{}/*error as final class cannot be inherited */
 
 }
+
+
+//1) First and most important difference between Inner class and nested static class is that Inner class require instance of outer class for initialization and they are always associated with instance of enclosing class. On the other hand nested static class is not associated with any instance of enclosing class.
+//2) Another difference between Inner class and nested static class is that later uses static keyword in there class declaration, which means they are static member of class and can be accessed like any other static member of class.
+//3) Nested static class can be imported using static import in Java.
+//4) One last difference between Inner class and nested static class is that later is more convenient and should be preferred over Inner class while declaring member classes.
