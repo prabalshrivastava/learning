@@ -1,4 +1,4 @@
-package learning.java;
+package learning.java.innerclass;
 
 class InstanceOuter {
   public InstanceOuter(int xx) { x = xx; }
@@ -22,7 +22,7 @@ class StaticOuter {
   }
 }
 
-public class InnerClassExamples {
+public class InnerClassExamples0 {
   public static void main(String... args) {
     InstanceOuter io = new InstanceOuter(12);
 

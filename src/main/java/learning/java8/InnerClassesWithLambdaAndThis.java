@@ -15,6 +15,7 @@ class InnerClassesWithLambdaAndThis {
 }
 
 class Hello {
+
 	public Runnable r = new Runnable() {
 		public void run() {
 			//Here this refers to the toString of the Runnable instance
@@ -41,7 +42,6 @@ class Hello {
 		System.out.println(Hello.this);
 		System.out.println(Hello.this.toString());
 	};
-
 	public String toString() {
 		return "Hello's instance toString()";
 	}
