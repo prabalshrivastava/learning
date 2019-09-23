@@ -1,4 +1,4 @@
-package learning.java8;
+package learning.java8.stream;
 
 import java.util.ArrayList;
 import java.util.Collection;
