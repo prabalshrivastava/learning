@@ -14,7 +14,7 @@ public class IterateMap {
         map.put("E", 5);
         map.put("F", 6);
         map.put("G", 7);
-        Consumer<Map.Entry> 
+//        Consumer<Map.Entry>
 
     }
 }
