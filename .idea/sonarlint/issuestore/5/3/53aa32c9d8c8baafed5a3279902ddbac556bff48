@@ -1,0 +1,22 @@
+
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(å¶àÄ
+O
+java:S4973 "9Use the "equals" method if value comparison was intended.(û¹ÒŒ
+N
+java:S4973!"9Use the "equals" method if value comparison was intended.(ëóàN
+T
+java:S4973""9Use the "equals" method if value comparison was intended.(úø¸¶ıÿÿÿÿ
+T
+java:S4973)"9Use the "equals" method if value comparison was intended.(¼ûõÂıÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(Òİøûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å¶àÄ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(û¹ÒŒ
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(ëóàN
+S	java:S106""9Replace this use of System.out or System.err by a logger.(úø¸¶ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(é¸Ç©şÿÿÿÿ
+;
+java:S2129'" Remove this "String" constructor(“’ßæüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¼ûõÂıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(’ü‡â
