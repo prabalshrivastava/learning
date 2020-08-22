@@ -1,31 +1,31 @@
 
-p
-java:S1192%"UDefine a constant instead of duplicating this literal "You cannot change Me" 4 times.(£ÕâÂùÿÿÿÿ
 g
 java:S1192,"LDefine a constant instead of duplicating this literal "You cannot " 3 times.(÷ÜÀßûÿÿÿÿ
+p
+java:S1192%"UDefine a constant instead of duplicating this literal "You cannot change Me" 4 times.(£ÕâÂùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(—±ÿé
 f
 java:S1192,"KDefine a constant instead of duplicating this literal " change Me" 3 times.(÷ÜÀßûÿÿÿÿ
-O
-java:S4973'"9Use the "equals" method if value comparison was intended.(—±ÿé
-T
-java:S4973)"9Use the "equals" method if value comparison was intended.(§¯ÄÊüÿÿÿÿ
-O
-java:S4973+"9Use the "equals" method if value comparison was intended.(É´®È
 T
 java:S4973-"9Use the "equals" method if value comparison was intended.(…ø²‰ûÿÿÿÿ
 O
 java:S49730"9Use the "equals" method if value comparison was intended.(¨¦©¹
 T
 java:S49733"9Use the "equals" method if value comparison was intended.(ÄÜ‡°ûÿÿÿÿ
-;
-java:S2129%" Remove this "String" constructor(£ÕâÂùÿÿÿÿ
+O
+java:S4973+"9Use the "equals" method if value comparison was intended.(É´®È
 6
 java:S2129&" Remove this "String" constructor(ß®Øž
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(—±ÿé
 S	java:S106)"9Replace this use of System.out or System.err by a logger.(§¯ÄÊüÿÿÿÿ
 N	java:S106+"9Replace this use of System.out or System.err by a logger.(É´®È
-S	java:S106-"9Replace this use of System.out or System.err by a logger.(…ø²‰ûÿÿÿÿ
-N	java:S1060"9Replace this use of System.out or System.err by a logger.(¨¦©¹
 S	java:S1063"9Replace this use of System.out or System.err by a logger.(ÄÜ‡°ûÿÿÿÿ
+;
+java:S2129%" Remove this "String" constructor(£ÕâÂùÿÿÿÿ
+T
+java:S4973)"9Use the "equals" method if value comparison was intended.(§¯ÄÊüÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¨¦©¹
 V	java:S125
 "<This block of commented-out lines of code should be removed.(¨îÕ€üÿÿÿÿ
+O
+java:S4973'"9Use the "equals" method if value comparison was intended.(—±ÿé
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(…ø²‰ûÿÿÿÿ
