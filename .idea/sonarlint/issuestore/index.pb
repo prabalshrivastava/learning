@@ -5,8 +5,6 @@ Dsrc/main/java/learning/java8/functional/ImperativeVSDeclarative.java,8\9\898e8
 Vsrc/main/java/learning/java/stringstringbufferandbuilder/StringBufferThreadSaftey.java,1\6\16136eb881a7975503b27eab5ed252c1936ae559
 €
 Psrc/main/java/learning/java/stringstringbufferandbuilder/MutableVsImmutable.java,5\3\53aa32c9d8c8baafed5a3279902ddbac556bff48
-{
-Ksrc/main/java/learning/java/stringstringbufferandbuilder/StringMethods.java,d\1\d1e6020e3eb56e2a52530d3b3f5da37f8cae7020
 „
 Tsrc/main/java/learning/java/stringstringbufferandbuilder/EqualsMethodVsOperator.java,2\1\2145a7c88f26e4817a0c472b44bc7fbaf03e8193
 x
@@ -15,3 +13,7 @@ a
 1src/main/java/learning/java/date/UtilInstant.java,5\6\568ac181df78ca2028bb16b0d6176478df0ceca7
 ^
 .src/main/java/learning/java/date/UtilDate.java,6\a\6acdaebf2113fed785ade64f34bfdb8669839bed
+‰
+Ysrc/main/java/learning/java/stringstringbufferandbuilder/StringConstructorAndMethods.java,e\1\e161f3d386f5f26f5cf957efc694dfa2c7b070fd
+^
+.src/main/java/learning/java/arrays/Arrays.java,3\b\3b2e0b7324602e96e60fd40f052fae6802594f36
