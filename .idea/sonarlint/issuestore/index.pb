@@ -17,3 +17,17 @@ a
 Ysrc/main/java/learning/java/stringstringbufferandbuilder/StringConstructorAndMethods.java,e\1\e161f3d386f5f26f5cf957efc694dfa2c7b070fd
 ^
 .src/main/java/learning/java/arrays/Arrays.java,3\b\3b2e0b7324602e96e60fd40f052fae6802594f36
+\
+,src/main/java/learning/java/jvm/Student.java,e\8\e8d09dfdb11123f43fa00bbe7fbd104b5fc3c1a6
+Z
+*src/main/java/learning/java/jvm/Test1.java,d\4\d4b1bb81d645910d8496bbc5e26d6694ced0f8ae
+l
+<src/main/java/learning/java/jvm/ClassInitializationDemo.java,8\0\80c3604fd05dd72a14bcaa534bf545d3e1430b63
+j
+:src/main/java/learning/java/exception/ExceptionBasics.java,4\e\4e486e301927e703fe6a8eb8bcf754be0ee95889
+y
+Isrc/main/java/learning/java/exception/checkedExceptionThrowVsHandled.java,0\8\08c643ee40e24665586abd6d3607e5e8609ab4a5
+u
+Esrc/main/java/learning/java/exception/UncheckedExceptionExamples.java,a\4\a4e953dc488e0f6a4f4e26d3c9b6e9100d84f7c2
+s
+Csrc/main/java/learning/java/exception/checkedExceptionExamples.java,d\7\d78eb541d6c296e7bbcd0ba02ecf65f45f1377bc
