@@ -4,6 +4,7 @@ public class ExceptionBasics {
     public static void main(String[] args) {
 //        case 1
 //        throwNullPointer();
+//        System.out.println("after exception");
 
 //        case 2
 //        try {
@@ -44,7 +45,7 @@ public class ExceptionBasics {
 //            System.out.println("inside finally");
 //        }
 //        System.out.println("after exception");
-    }
+}
 
     private static void throwNullPointer() {
         String s = null;

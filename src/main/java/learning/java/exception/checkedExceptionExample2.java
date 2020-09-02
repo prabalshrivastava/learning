@@ -9,14 +9,21 @@ import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-public class checkedExceptionExamples {
+public class checkedExceptionExample2 {
+
+    //Case 1
+    checkedExceptionExample2() throws FileNotFoundException {
+        fileNotFoundThrown();
+    }
+
+
     public static void main(String[] args) throws IOException {
 
-//        try {
-//            fileNotFoundThrown();
-//        } catch (FileNotFoundException e) {
-//            e.printStackTrace();
-//        }
+        try {
+            fileNotFoundThrown();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
         fileNotFoundThrown();
         malformedUrlException();//We have handled by declaring the IOException(Parent of MalformedUrlException) as part of method signature
 //        parseException();
@@ -48,7 +55,7 @@ public class checkedExceptionExamples {
 }
 
 
-class ChildThread extends Thread {
+class ChildThread1 extends Thread {
 
     public void run() {
         try {

@@ -32,10 +32,12 @@ public class UncheckedExceptionExamples {
 //        If you are inserting any value in the wrong index, it would result in ArrayIndexOutOfBoundsException as shown below:
 //        int a[] = new int[5];
 //        a[10] = 50; //ArrayIndexOutOfBoundsException
+//        a[-1] = 50;
 
 
 //        5) A scenario where StringIndexOutOfBoundsException occurs
 //        "prabal".charAt(6);
+        "prabal".charAt(-1);
 
 
 //        6) A scenario where StringIndexOutOfBoundsException occurs
@@ -55,6 +57,7 @@ public class UncheckedExceptionExamples {
 //        A method throws an IllegalArgumentException if we call it with some illegal or inappropriate arguments.
 //                For instance, the sleep() method of the Thread class expects positive time and we pass a negative time interval as an argument. This results in IllegalArgumentException:
 //        Thread.currentThread().sleep(-10000); // Throws IllegalArgumentException
+//        Thread.currentThread().sleep("-10000");
 
 
 //        8) A scenario where IllegalStateException occurs
@@ -66,7 +69,7 @@ public class UncheckedExceptionExamples {
 //        Internally, the remove method checks the state variable lastRet and if it is less than 0, it throws IllegalStateException. Here, the variable is still pointing to the value -1.
 //        As a result, we get an IllegalStateException.
 //        Initialized with index at -1
-        Iterator<Object> intListIterator = new ArrayList<>().iterator();
-        intListIterator.remove(); // IllegalStateException
+//        Iterator<Object> intListIterator = new ArrayList<>().iterator();
+//        intListIterator.remove(); // IllegalStateException
     }
 }
