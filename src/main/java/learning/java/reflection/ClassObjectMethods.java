@@ -1,0 +1,74 @@
+package learning.java.reflection;
+
+import static java.lang.System.out;
+
+public class ClassObjectMethods {
+    public static void main(String[] args) throws IllegalAccessException, InstantiationException, NoSuchMethodException {
+        Customer customer = new Customer();
+        Class<? extends Customer> customerClass = customer.getClass();
+        out.println("customerClass. : " + customerClass.asSubclass());
+        out.println("customerClass. : " + customerClass.cast());
+        out.println("customerClass. : " + customerClass.desiredAssertionStatus());
+        out.println("customerClass. : " + customerClass.forName());
+        out.println("customerClass. : " + customerClass.forName());
+        out.println("customerClass. : " + customerClass.getAnnotatedInterfaces());
+        out.println("customerClass. : " + customerClass.getAnnotatedSuperclass());
+        out.println("customerClass. : " + customerClass.getAnnotation());
+        out.println("customerClass. : " + customerClass.getAnnotations());
+        out.println("customerClass. : " + customerClass.getAnnotationsByType());
+        out.println("customerClass. : " + customerClass.getCanonicalName());
+        out.println("customerClass. : " + customerClass.getClasses());
+        out.println("customerClass. : " + customerClass.getClassLoader());
+        out.println("customerClass. : " + customerClass.getComponentType());
+        out.println("customerClass. : " + customerClass.getConstructor());
+        out.println("customerClass. : " + customerClass.getConstructors());
+        out.println("customerClass. : " + customerClass.getDeclaredAnnotation());
+        out.println("customerClass. : " + customerClass.getDeclaredAnnotations());
+        out.println("customerClass. : " + customerClass.getDeclaredAnnotationsByType());
+        out.println("customerClass. : " + customerClass.getDeclaredClasses());
+        out.println("customerClass. : " + customerClass.getDeclaredConstructor());
+        out.println("customerClass. : " + customerClass.getDeclaredConstructors());
+        out.println("customerClass. : " + customerClass.getDeclaredField());
+        out.println("customerClass. : " + customerClass.getDeclaredFields());
+        out.println("customerClass. : " + customerClass.getDeclaredMethod());
+        out.println("customerClass. : " + customerClass.getDeclaredMethods());
+        out.println("customerClass. : " + customerClass.getDeclaringClass());
+        out.println("customerClass. : " + customerClass.getEnclosingClass());
+        out.println("customerClass. : " + customerClass.getEnclosingConstructor());
+        out.println("customerClass. : " + customerClass.getEnclosingMethod());
+        out.println("customerClass. : " + customerClass.getEnumConstants());
+        out.println("customerClass. : " + customerClass.getField());
+        out.println("customerClass. : " + customerClass.getFields());
+        out.println("customerClass. : " + customerClass.getGenericInterfaces());
+        out.println("customerClass. : " + customerClass.getGenericSuperclass());
+        out.println("customerClass. : " + customerClass.getInterfaces());
+        out.println("customerClass. : " + customerClass.getMethod());
+        out.println("customerClass. : " + customerClass.getMethods());
+        out.println("customerClass. : " + customerClass.getModifiers());
+        out.println("customerClass. : " + customerClass.getName());
+        out.println("customerClass. : " + customerClass.getPackage());
+        out.println("customerClass. : " + customerClass.getProtectionDomain());
+        out.println("customerClass. : " + customerClass.getResource());
+        out.println("customerClass. : " + customerClass.getResourceAsStream());
+        out.println("customerClass. : " + customerClass.getSigners());
+        out.println("customerClass. : " + customerClass.getSimpleName());
+        out.println("customerClass. : " + customerClass.getSuperclass());
+        out.println("customerClass. : " + customerClass.getTypeName());
+        out.println("customerClass. : " + customerClass.getTypeParameters());
+        out.println("customerClass. : " + customerClass.isAnnotation());
+        out.println("customerClass. : " + customerClass.isAnnotationPresent());
+        out.println("customerClass. : " + customerClass.isAnonymousClass());
+        out.println("customerClass. : " + customerClass.isArray());
+        out.println("customerClass. : " + customerClass.isAssignableFrom());
+        out.println("customerClass. : " + customerClass.isEnum());
+        out.println("customerClass. : " + customerClass.isInstance());
+        out.println("customerClass. : " + customerClass.isInterface());
+        out.println("customerClass. : " + customerClass.isLocalClass());
+        out.println("customerClass. : " + customerClass.isMemberClass());
+        out.println("customerClass. : " + customerClass.isPrimitive());
+        out.println("customerClass. : " + customerClass.isSynthetic());
+        out.println("customerClass. : " + customerClass.newInstance());
+        out.println("customerClass. : " + customerClass.toGenericString());
+        out.println("customerClass. : " + customerClass.toString());
+    }
+}
