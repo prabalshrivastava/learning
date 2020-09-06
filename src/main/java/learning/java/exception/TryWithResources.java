@@ -47,11 +47,13 @@ public class TryWithResources {
 //            System.out.println(reader.readLine());
 //        }
 
+        //case 4 experiment 1
 //        try (BufferedReader reader = new BufferedReader(
 //                new FileReader(URLDecoder.decode(TryWithResources.class.getResource("TryWithResources.class").getPath())))) {
 //            System.out.println(reader.readLine());
 //        }
 
+        //case 4 experiment 2
 //        try (BufferedReader reader = new BufferedReader(
 //                new FileReader(URLDecoder.decode(TryWithResources.class.getResource("abc.txt").getPath())))) {
 //            System.out.println(reader.readLine());
@@ -63,6 +65,7 @@ public class TryWithResources {
 //        }
 
 
+        //case 4 experiment 3
 //        try (BufferedReader reader = new BufferedReader(new FileReader("./abc.txt"))) {
 //            System.out.println(reader.readLine());
 //
@@ -72,5 +75,14 @@ public class TryWithResources {
 //            }
 //        }
 
+
+
+        //case 5
+        try (Scanner scanner = new Scanner(new File("testRead.txt"));
+             PrintWriter writer = new PrintWriter(new File("testWrite.txt"))) {
+            while (scanner.hasNext()) {
+                writer.print(scanner.nextLine());
+            }
+        }
     }
 }
