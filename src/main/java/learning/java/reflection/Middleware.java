@@ -16,7 +16,7 @@ public class Middleware {
         Method method = aClass.getDeclaredMethod(methodName, argsType);
 
         //invoke the method on the class and collect the result
-        Object result = method.invoke(instance);
+        Object result = method.invoke(instance,argsValue);
 
         //return the result
         return result;
