@@ -49,3 +49,11 @@ d
 0src/main/java/learning/java/reflection/User.java,1\0\10ea364611826c0540d8644ed730502e54f93417
 n
 >src/main/java/learning/java/reflection/ClassObjectMethods.java,f\8\f8a33811b898cce7ef5082409d66171dbf8ae6a3
+{
+Ksrc/main/java/learning/trickyquestions/DoesInterfaceInheritObjectClass.java,3\e\3e9c38f79da8e99ee95c7d4967a8e13cd1ffa5b4
+e
+5src/main/java/learning/java/jvm/Reflection01Main.java,4\b\4bbcb4902835ceadec37c5f6137a9ce57f687bc6
+_
+/src/main/java/learning/java/jvm/Middleware.java,0\6\06323da4682bd805b1523918b5938804806dd4cb
+[
++src/main/java/learning/coding/Solution.java,d\3\d30fcf29e2f16b66a82656b903ea779e8baca452
