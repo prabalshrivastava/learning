@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import static java.lang.System.out;
 
-public class Annotaion01Main {
+public class Annotation01Main {
     public static void main(String[] args) throws NoSuchMethodException {
         Annotation[] annotations = ReadmeDemo.class.getDeclaredAnnotations();
         Arrays.stream(annotations).forEach(out::println);
