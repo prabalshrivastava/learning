@@ -14,6 +14,5 @@ public class OperatingSystemFactory {
 		}else {
 			return new Windows();
 		}
-		
 	}
 }	
