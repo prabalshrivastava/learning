@@ -1,0 +1,22 @@
+
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ8ÍýÀÎÃ.
+‚
+java:S3039("`Refactor this "charAt" call; it will result in an "StringIndexOutOfBounds" exception at runtime.(©æò”ûÿÿÿÿ8Ï¸¿¥Ä.
+W	java:S125<"<This block of commented-out lines of code should be removed.(ºÂâ{8ÈÖÙ¥Ä.
+]	java:S125H"<This block of commented-out lines of code should be removed.(ƒûÕÞûÿÿÿÿ8÷ëÕ¥Ä.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8ÍýÀÎÃ.
+L
+java:S2201("*The return value of "charAt" must be used.(©æò”ûÿÿÿÿ8“å½¥Ä.
+W	java:S125"<This block of commented-out lines of code should be removed.(ïü§98™ê‰ÎÃ.
+]	java:S125"<This block of commented-out lines of code should be removed.(¨Ó¢þÿÿÿÿ8»…´¥Ä.
+X	java:S125'"<This block of commented-out lines of code should be removed.(Ê¸†‡8Ï¸¿¥Ä.
+X	java:S1252"<This block of commented-out lines of code should be removed.(£ú°Á8ã‘Ê¥Ä.
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ÈÖÙ¥Ä.
+X	java:S125#"<This block of commented-out lines of code should be removed.(¸Ÿê·8ÜòÂ¥Ä.
+X	java:S125."<This block of commented-out lines of code should be removed.(¨Ä¼8ºÖÒÎÃ.
+]	java:S125,"<This block of commented-out lines of code should be removed.(¿¾´¹þÿÿÿÿ8ºÖÒÎÃ.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Âœûöþÿÿÿÿ8ÜòÂ¥Ä.

@@ -1,0 +1,15 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8èéŞÍÃ.
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ù–ª¥Ä.
+I
+java:S22014",The return value of "toString" must be used.(ğùñä8±‚ÉÍÃ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ú‹âÍÃ.
+R
+java:S11442"5Remove this unused private "throwNullPointer" method.(ÎÄêÙ8ç¡±¥Ä.
+]	java:S125("<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ç¡±¥Ä.
+a
+java:S18584"D"s" is already a string, there's no need to call "toString()" on it.(ğùñä8±‚ÉÍÃ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ì³±8¶¥©¥Ä.
+\
+java:S22594"?A "NullPointerException" could be thrown; "s" is nullable here.(ğùñä8±‚ÉÍÃ.

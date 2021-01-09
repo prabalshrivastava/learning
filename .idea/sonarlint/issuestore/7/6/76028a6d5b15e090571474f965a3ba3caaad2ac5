@@ -1,0 +1,7 @@
+
+F
+java:S1481"+Remove this unused "phone1" local variable.(çææ¦þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û…½Àþÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "phone1".(çææ¦þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û…½Àþÿÿÿÿ

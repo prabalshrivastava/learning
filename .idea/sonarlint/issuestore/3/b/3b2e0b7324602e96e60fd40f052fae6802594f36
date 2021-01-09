@@ -1,0 +1,165 @@
+
+C
+java:S1481U"'Remove this unused "b4" local variable.(©§¥<8þ¼´Á.
+J
+java:S1481\"(Remove this unused "b11" local variable.(ÕÕˆûùÿÿÿÿ8ŽØƒµÁ.
+S
+java:S1854X"6Remove this useless assignment to local variable "b7".(úÃÂ‰8À¡ù´Á.
+]	java:S125("<This block of commented-out lines of code should be removed.(¥—’Åÿÿÿÿÿ8â¡ºµÁ.
+T
+java:S1854"7Remove this useless assignment to local variable "a13".(Á‹‡8šæ˜´Á.
+D
+java:S1481"'Remove this unused "a5" local variable.(ñ‰Îñ8Ñì‹´Á.
+X
+java:S1854"6Remove this useless assignment to local variable "a2".(øü÷Øøÿÿÿÿ8¶ž‡´Á.
+T
+java:S1854c"7Remove this useless assignment to local variable "b14".(ýàÞŸ8“‘ˆµÁ.
+Y
+java:S1854"7Remove this useless assignment to local variable "a11".(Â‹îØùÿÿÿÿ8Þã“´Á.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(•øÚý8Ð›©µÁ.
+I
+java:S1481"'Remove this unused "a2" local variable.(øü÷Øøÿÿÿÿ8¶²‡´Á.
+Z
+java:S1197["8Move the array designator from the variable to the type.(ù©¯Úýÿÿÿÿ8Øæ€µÁ.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¹³õ½þÿÿÿÿ8Æ´Å´Á.
+_
+java:S2094j"BRemove this empty class, write its code or make it an "interface".(î’œœ8–…ÊµÁ.
+Z
+java:S1197Z"8Move the array designator from the variable to the type.(û¸ë‚ûÿÿÿÿ8êþ´Á.
+D
+java:S1481"'Remove this unused "a3" local variable.(®¨¢°8ÔÝ‰´Á.
+D
+java:S1481+"'Remove this unused "o9" local variable.(™ã¶”8—›½µÁ.
+D
+java:S1481"'Remove this unused "a8" local variable.(ƒùÞ¿8ÿ¿´Á.
+I
+java:S1481"'Remove this unused "a7" local variable.(ÉƒšÄýÿÿÿÿ8ßìŽ´Á.
+U
+java:S1197"8Move the array designator from the variable to the type.(©‹åµ8åë†´Á.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(÷à¡ÿÿÿÿÿ8ì¯í´Á.
+C
+java:S14815"&Remove this unused "n" local variable.(¾¹°ƒ8¼×ÈµÁ.
+Y
+java:S5669B"7Use an array of 'Integer' instead of an array of 'int'.(£áí”øÿÿÿÿ8·ÍÜ´Á.
+X	java:S125"<This block of commented-out lines of code should be removed.(æ¨úØ8¦Ž´Á.
+S
+java:S1854"6Remove this useless assignment to local variable "a5".(ñ‰Îñ8âË‹´Á.
+K
+java:S2275B")An 'int' is expected rather than a int[].(£áí”øÿÿÿÿ8·ÍÜ´Á.
+Z
+java:S1197W"8Move the array designator from the variable to the type.(‘ÔÓøÿÿÿÿ8—áø´Á.
+T
+java:S1854]"7Remove this useless assignment to local variable "b12".(Ìµ”Œ8£ºƒµÁ.
+Y
+java:S1854["7Remove this useless assignment to local variable "b10".(ù©¯Úýÿÿÿÿ8Øæ€µÁ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(¶®™°8öµ³µÁ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(øü÷Øøÿÿÿÿ8¶ž‡´Á.
+]	java:S125b"<This block of commented-out lines of code should be removed.(»·àÔÿÿÿÿÿ8“‘ˆµÁ.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ñ§Ìšûÿÿÿÿ8Õìé´Á.
+B
+java:S1481"&Remove this unused "a" local variable.(¯†¼u8ÇÊ…´Á.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(²ÿÉ®øÿÿÿÿ8ßØ¦µÁ.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(£áí”øÿÿÿÿ8á™Ü´Á.
+]	java:S125	"<This block of commented-out lines of code should be removed.(…ßñ‡þÿÿÿÿ8ÇÊ…´Á.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(€Òóšýÿÿÿÿ8ƒ­þ´Á.
+T
+java:S1854"7Remove this useless assignment to local variable "a14".(Ôþ•Í8ø’ž´Á.
+S
+java:S1854V"6Remove this useless assignment to local variable "b5".(¤Âš¤8íËö´Á.
+X
+java:S1854"6Remove this useless assignment to local variable "a7".(ÉƒšÄýÿÿÿÿ8ßìŽ´Á.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Ê“©¼ûÿÿÿÿ8Õ÷Ü´Á.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(³ÂåÍüÿÿÿÿ8¢Üá´Á.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÝÈÍÈ8¹©µÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(åî—þ8ðµ“µÁ.
+K
+java:S2275C")An 'int' is expected rather than a int[].(Ê“©¼ûÿÿÿÿ8Õ÷Ü´Á.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(û·¢êþÿÿÿÿ8ýÂ£µÁ.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(Ëì³ 8€°ê´Á.
+X	java:S125"<This block of commented-out lines of code should be removed.(õ¦²8òÝ—´Á.
+Q
+java:S1854"5Remove this useless assignment to local variable "a".(¯†¼u8ÇÊ…´Á.
+W	java:S125"<This block of commented-out lines of code should be removed.(­¸±T8£®»´Á.
+I
+java:S1481:"'Remove this unused "p1" local variable.(¡…¼Ïüÿÿÿÿ8Ž“ÓµÁ.
+D
+java:S1481"'Remove this unused "a1" local variable.(©‹åµ8åë†´Á.
+I
+java:S1481Z"'Remove this unused "b9" local variable.(û¸ë‚ûÿÿÿÿ8êþ´Á.
+]	java:S125d"<This block of commented-out lines of code should be removed.(¬¶¿‘úÿÿÿÿ8¥ÕŠµÁ.
+]	java:S1256"<This block of commented-out lines of code should be removed.(ñ½óöüÿÿÿÿ8¼×ÈµÁ.
+I
+java:S1481W"'Remove this unused "b6" local variable.(‘ÔÓøÿÿÿÿ8À¡ù´Á.
+]	java:S125"<This block of commented-out lines of code should be removed.(¾¿ÎÔÿÿÿÿÿ8ÕŽ’´Á.
+D
+java:S1481X"'Remove this unused "b7" local variable.(úÃÂ‰8À¡ù´Á.
+R
+java:S1854U"6Remove this useless assignment to local variable "b4".(©§¥<8þ¼´Á.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(Žþ™8¢Üá´Á.
+S
+java:S1854;"6Remove this useless assignment to local variable "p2".(¤¨‰¿8îòÓµÁ.
+X	java:S125R"<This block of commented-out lines of code should be removed.(àÜºÄ8Ôü¸´Á.
+J
+java:S1481"(Remove this unused "a11" local variable.(Â‹îØùÿÿÿÿ8Þã“´Á.
+S
+java:S1854"6Remove this useless assignment to local variable "a1".(©‹åµ8åë†´Á.
+U
+java:S1197]"8Move the array designator from the variable to the type.(Ìµ”Œ8£ºƒµÁ.
+E
+java:S1481"(Remove this unused "a14" local variable.(Ôþ•Í8 ¯ž´Á.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë° Ï8î»–µÁ.
+E
+java:S1481"(Remove this unused "a13" local variable.(Á‹‡8šæ˜´Á.
+X
+java:S1854:"6Remove this useless assignment to local variable "p1".(¡…¼Ïüÿÿÿÿ8âóÒµÁ.
+S
+java:S1854"6Remove this useless assignment to local variable "a8".(ƒùÞ¿8ø¦´Á.
+D
+java:S1481V"'Remove this unused "b5" local variable.(¤Âš¤8íËö´Á.
+D
+java:S1481;"'Remove this unused "p2" local variable.(¤¨‰¿8îòÓµÁ.
+S
+java:S1854"6Remove this useless assignment to local variable "a3".(®¨¢°8Ý²ˆ´Á.
+J
+java:S1481["(Remove this unused "b10" local variable.(ù©¯Úýÿÿÿÿ8Øæ€µÁ.
+Y
+java:S5669A"7Use an array of 'Integer' instead of an array of 'int'.(¹³õ½þÿÿÿÿ8·ÍÜ´Á.
+]	java:S125"<This block of commented-out lines of code should be removed.(¦¿•Šùÿÿÿÿ8¼ýŠ´Á.
+K
+java:S2275A")An 'int' is expected rather than a int[].(¹³õ½þÿÿÿÿ8·ÍÜ´Á.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÕ÷Èøÿÿÿÿ8âí•µÁ.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(¦³ä¶üÿÿÿÿ8¢Üá´Á.
+E
+java:S1481]"(Remove this unused "b12" local variable.(Ìµ”Œ8ŽØƒµÁ.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(«¤½Óúÿÿÿÿ8·¡¯µÁ.
+D
+java:S1481*"'Remove this unused "o8" local variable.(‹Š—ñ8â¡ºµÁ.
+Y
+java:S1854\"7Remove this useless assignment to local variable "b11".(ÕÕˆûùÿÿÿÿ8¹¤ƒµÁ.
+S
+java:S1854*"6Remove this useless assignment to local variable "o8".(‹Š—ñ8ñ¹µÁ.
+X
+java:S1854Z"6Remove this useless assignment to local variable "b9".(û¸ë‚ûÿÿÿÿ8êþ´Á.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÒˆÖ´üÿÿÿÿ8î”¬µÁ.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Äßæûÿÿÿÿ8ÆÔ¿´Á.
+X	java:S1259"<This block of commented-out lines of code should be removed.(æ°‹Ý8µÉÒµÁ.
+S
+java:S1854+"6Remove this useless assignment to local variable "o9".(™ã¶”8õ†½µÁ.
+E
+java:S1481c"(Remove this unused "b14" local variable.(ýàÞŸ8“‘ˆµÁ.
+Y
+java:S5669C"7Use an array of 'Integer' instead of an array of 'int'.(Ê“©¼ûÿÿÿÿ8Õ÷Ü´Á.
+W
+java:S18548"5Remove this useless assignment to local variable "p".(¦ËþÇúÿÿÿÿ8„éÎµÁ.
+U
+java:S1197X"8Move the array designator from the variable to the type.(úÃÂ‰8À¡ù´Á.
+X
+java:S1854W"6Remove this useless assignment to local variable "b6".(‘ÔÓøÿÿÿÿ8À¡ù´Á.
+]	java:S125F"<This block of commented-out lines of code should be removed.(Ï§Â¥øÿÿÿÿ8Ö€å´Á.
+R
+java:S18545"5Remove this useless assignment to local variable "n".(¾¹°ƒ8¼×ÈµÁ.
+U
+java:S1197V"8Move the array designator from the variable to the type.(¤Âš¤8õÛ÷´Á.
+H
+java:S14818"&Remove this unused "p" local variable.(¦ËþÇúÿÿÿÿ8„éÎµÁ.

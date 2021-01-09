@@ -1,0 +1,19 @@
+
+=
+java:S2129	" Remove this "String" constructor(ÖëŸ„8æöô§Á.
+]	java:S125#"<This block of commented-out lines of code should be removed.(“ãïùÿÿÿÿ8›ÔñÀ.
+]	java:S125-"<This block of commented-out lines of code should be removed.(ßÅöÿùÿÿÿÿ8·®ºÀ.
+B
+java:S2129
+" Remove this "String" constructor(¦Â÷Âıÿÿÿÿ8æöô§Á.
+]
+java:S1192"GDefine a constant instead of duplicating this literal "abcsde" 5 times.(ô‘û×
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ï´38˜¸’À.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+i
+java:S1192
+"GDefine a constant instead of duplicating this literal "prabal" 3 times.(¦Â÷Âıÿÿÿÿ8æöô§Á.
+c
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ê­ğÀûÿÿÿÿ
+]	java:S125+"<This block of commented-out lines of code should be removed.(ùèƒÂøÿÿÿÿ8–Á¡‘À.

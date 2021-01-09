@@ -1,0 +1,17 @@
+
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ú¦ãùûÿÿÿÿ8Ì¿ÚÇÕ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş÷ş¢øÿÿÿÿ8˜Å„ÉÕ.
+H
+java:S14815"&Remove this unused "a" local variable.(Œ“ŞÏùÿÿÿÿ8Ê˜üÇÕ.
+X	java:S125)"<This block of commented-out lines of code should be removed.( ¶¾Ü8º¾ÖÇÕ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê‚àÿÿÿÿÿ8¯„ÈÕ.
+X	java:S125
+"<This block of commented-out lines of code should be removed.( ¶¾Ü8Õ÷İÇÕ.
+W
+java:S18545"5Remove this useless assignment to local variable "a".(Œ“ŞÏùÿÿÿÿ8Ê˜üÇÕ.
+H
+java:S14814"&Remove this unused "f" local variable.(™½ìñüÿÿÿÿ8Ê˜üÇÕ.
+X	java:S125"<This block of commented-out lines of code should be removed.( ¶¾Ü8ë™áÇÕ.
+W
+java:S18544"5Remove this useless assignment to local variable "f".(™½ìñüÿÿÿÿ8Ê˜üÇÕ.
+]	java:S1259"<This block of commented-out lines of code should be removed.(á–„Àÿÿÿÿÿ8Ê˜üÇÕ.

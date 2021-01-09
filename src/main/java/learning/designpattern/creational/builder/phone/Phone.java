@@ -1,9 +1,5 @@
 package learning.designpattern.creational.builder.phone;
 
-import learning.designpattern.creational.factory.OperatingSystemFactory;
-import learning.designpattern.creational.factory.phone.OS;
-import learning.designpattern.creational.factory.phone.Windows;
-
 public class Phone {
 	private String os;
 	private int ram;

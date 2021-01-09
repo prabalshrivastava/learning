@@ -1,0 +1,19 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "apple" 3 times.(¤’„ñ
+Q
+java:S1854	"6Remove this useless assignment to local variable "a2".(¨Üù¥ÿÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "value".(º‡‰Ğ
+>	java:S108")Either remove or fill this block of code.(‹…û
+C	java:S108")Either remove or fill this block of code.(È»¶áÿÿÿÿÿ
+O
+java:S1854-"9Remove this useless assignment to local variable "value".(º‡‰Ğ
+E
+java:S1481"*Remove this unused "entry" local variable.(È»¶áÿÿÿÿÿ
+B
+java:S1481	"'Remove this unused "a2" local variable.(¨Üù¥ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ìò¶¤ÿÿÿÿÿ
+Q	java:S125""<This block of commented-out lines of code should be removed.(½“Ø¯
+A
+java:S1144(",Remove this unused private "fillMap" method.(Ç¥7

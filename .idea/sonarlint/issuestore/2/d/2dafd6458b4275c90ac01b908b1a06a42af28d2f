@@ -1,0 +1,9 @@
+
+L
+java:S1481
+"*Remove this unused "array" local variable.(úé ğùÿÿÿÿ8ùÛ±‚è.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8»ê®‚è.
+[
+java:S1854
+"9Remove this useless assignment to local variable "array".(úé ğùÿÿÿÿ8ùÛ±‚è.

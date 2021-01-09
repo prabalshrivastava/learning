@@ -1,0 +1,23 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïò‘Ñ8‡äò…Â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹®…û8‡äò…Â.
+^
+java:S2133"ARemove this object instantiation and use "Student.class" instead.(’£„¥8Åûù…Â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş€ü”8Ó‹û…Â.
+W
+java:S1128"5Remove this unused import 'java.lang.reflect.Method'.(Í“¯äüÿÿÿÿ8¥‡ô…Â.
+J
+java:S3740
+"/Provide the parametrized type for this generic.(öªâÀùÿÿÿÿ
+c
+java:S2133	"ARemove this object instantiation and use "Student.class" instead.(ØË¸òùÿÿÿÿ8Åûù…Â.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú8¥‡ô…Â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰û›üÿÿÿÿ8¸½ó…Â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¯‰æ8Åûù…Â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ïø÷¿üÿÿÿÿ8„øñ…Â.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÈÅï¨üÿÿÿÿ8ØÓğ…Â.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£º¾¬øÿÿÿÿ8ö ò…Â.

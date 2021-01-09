@@ -1,0 +1,20 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã«£Ëþÿÿÿÿ8»±ºïÕ.
+t
+java:S4276
+"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(§»–Ô8·°´ïÕ.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËŽýñ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ü½è8»±ºïÕ.
+I
+java:S1612",Replace this lambda with a method reference.(ÐÆ†è8·°´ïÕ.
+y
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(‘§µÐþÿÿÿÿ8¥©¹ïÕ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®ŠË¼8¥©¹ïÕ.
+V
+java:S1854"9Remove this useless assignment to local variable "ref1b".(ÐÆ†è8ÁÅ¶ïÕ.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(…ï³Çýÿÿÿÿ
+f
+java:S2184"DCast one of the operands of this subtraction operation to a "float".(‘§µÐþÿÿÿÿ8»±ºïÕ.
+V
+java:S1854"9Remove this useless assignment to local variable "ref2b".(ñ«ùÓ8»±ºïÕ.
+Q	java:S125"<This block of commented-out lines of code should be removed.(§àŠ…

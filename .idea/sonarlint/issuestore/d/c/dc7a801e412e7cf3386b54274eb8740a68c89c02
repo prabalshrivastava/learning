@@ -1,0 +1,55 @@
+
+G
+java:S1481X"*Remove this unused "strm7" local variable.(ãçóÊ8âÄ¾ôÕ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(º²±8—ÔáòÕ.
+L
+java:S1481J"*Remove this unused "build" local variable.(€«Åèıÿÿÿÿ8»ÏóÕ.
+T
+java:S3958G"2Refactor the code so this stream pipeline is used.(‚Ÿ›òúÿÿÿÿ8š¶ºóÕ.
+O
+java:S39585"2Refactor the code so this stream pipeline is used.(¥ıïÖ8‚ÃÔóÕ.
+]	java:S125M"<This block of commented-out lines of code should be removed.(¹®ƒ£ûÿÿÿÿ8ê¦ÔóÕ.
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(¾¶ˆ8ê¦ÔóÕ.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(º²±8—ÔáòÕ.
+[
+java:S1854J"9Remove this useless assignment to local variable "build".(€«Åèıÿÿÿÿ8»ÏóÕ.
+Z
+java:S1854H"=Remove this useless assignment to local variable "intStream".(öÚ„Ä8ğ…ÌóÕ.
+N
+java:S1481",Remove this unused "stream3" local variable.(å„éÌüÿÿÿÿ8½ÂÕóÕ.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(×…²İûÿÿÿÿ8˜âíòÕ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(×…²İûÿÿÿÿ8—ÔáòÕ.
+]
+java:S1854G";Remove this useless assignment to local variable "stream5".(‚Ÿ›òúÿÿÿÿ8š¶ºóÕ.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ÚÀ›şøÿÿÿÿ8ÆêòÕ.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ü¡˜8ê¦ÔóÕ.
+]	java:S125D"<This block of commented-out lines of code should be removed.(ºüîøùÿÿÿÿ8íÆ§óÕ.
+X	java:S125T"<This block of commented-out lines of code should be removed.(Õ¬‘Ë8Š…’ôÕ.
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8„µ¶ôÕ.
+I
+java:S1612",Replace this lambda with a method reference.(£Ú§ğ8°‘‘òÕ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ÚÀ›şøÿÿÿÿ8—ÔáòÕ.
+T
+java:S3958F"2Refactor the code so this stream pipeline is used.(Ú¹öºøÿÿÿÿ8¶Ñ­óÕ.
+K
+java:S1481H".Remove this unused "intStream" local variable.(öÚ„Ä8ğ…ÌóÕ.
+]
+java:S1854";Remove this useless assignment to local variable "stream3".(å„éÌüÿÿÿÿ8½ÂÕóÕ.
+O
+java:S3958%"2Refactor the code so this stream pipeline is used.(Ù«È€8íÆ§óÕ.
+N
+java:S1481G",Remove this unused "stream5" local variable.(‚Ÿ›òúÿÿÿÿ8ÅÍºóÕ.
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(£Ú§ğ8½ÂÕóÕ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ8°¶³òÕ.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(õ¹ÕÊıÿÿÿÿ8âÄ¾ôÕ.
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(Ÿ‹ïÿüÿÿÿÿ8íÆ§óÕ.
+V
+java:S1854X"9Remove this useless assignment to local variable "strm7".(ãçóÊ8âÄ¾ôÕ.
+N
+java:S1481F",Remove this unused "stream4" local variable.(Ú¹öºøÿÿÿÿ8Êå­óÕ.
+]	java:S125"<This block of commented-out lines of code should be removed.(–İòûÿÿÿÿ8½ÂÕóÕ.
+]
+java:S1854F";Remove this useless assignment to local variable "stream4".(Ú¹öºøÿÿÿÿ8¶Ñ­óÕ.

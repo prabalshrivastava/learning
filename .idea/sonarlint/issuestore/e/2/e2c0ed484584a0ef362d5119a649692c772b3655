@@ -1,0 +1,13 @@
+
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ªŠšÊÕ.
+y
+java:S1488z"\Immediately return this expression instead of assigning it to the temporary variable "diff".(Ç—¯8·§•ÊÕ.
+J
+java:S1604h"(Make this anonymous inner class a lambda(ÓŠÁ¯ÿÿÿÿÿ8ïşÉÕ.
+E
+java:S1604]"(Make this anonymous inner class a lambda(ÅººŒ8®‘ïÉÕ.
+y
+java:S1488q"\Immediately return this expression instead of assigning it to the temporary variable "diff".(Ç—¯8öë’ÊÕ.
+T	java:S106A"9Replace this use of System.out or System.err by a logger.(ÇÑ×8ŸÏÌÉÕ.
+e
+java:S1192G"HDefine a constant instead of duplicating this literal "Manager" 3 times.(’¾öÉ8´—ÊÉÕ.

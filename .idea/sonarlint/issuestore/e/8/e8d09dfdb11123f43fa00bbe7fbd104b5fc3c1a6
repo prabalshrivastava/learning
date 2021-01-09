@@ -1,0 +1,15 @@
+
+\
+java:S2133"ARemove this object instantiation and use "Student.class" instead.(Ï†ÄÀùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Ùè‡Å
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş²º§8Ó‰‡Â.
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(™„Å¥ùÿÿÿÿ
+@
+java:S1068"*Remove this unused "rollNo" private field.(Ì€ıß
+k
+java:S1450"URemove the "rollNo" field and declare it as a local variable in the relevant methods.(Ì€ıß
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ¥ŒŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ô›—şÿÿÿÿ

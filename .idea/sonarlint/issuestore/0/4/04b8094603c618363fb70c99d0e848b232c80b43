@@ -1,0 +1,11 @@
+
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(¯ÒÑ`
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(“Å÷­ûÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(“š²ëþÿÿÿÿ
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(§µÊ·
+a
+java:S1192"FDefine a constant instead of duplicating this literal "apple" 4 times.(×â¦Æþÿÿÿÿ

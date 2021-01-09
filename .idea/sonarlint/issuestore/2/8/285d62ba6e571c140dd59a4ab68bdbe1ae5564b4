@@ -1,0 +1,19 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÌøÅ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”†ìşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËÅ˜…
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+D
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(º¯êùÿÿÿÿ
+@
+java:S1068"*Remove this unused "gender" private field.(ÀÄŒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÎĞş‹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùÜÌÊÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥£®û
+M
+java:S1068"0Remove this unused "customerType" private field.(×Ú³³8¬¶¨Å.
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ùå¯ê
+A
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ

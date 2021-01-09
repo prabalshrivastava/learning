@@ -1,0 +1,16 @@
+
+e
+java:S2095/"HUse try-with-resources or close this "FileReader" in a "finally" clause.(÷ªßÕ8¤£ÔèÄ.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( „ÖÃÿÿÿÿÿ8¤£ÔèÄ.
+^
+java:S1075/"ARefactor your code to get this URI from a customizable parameter.(÷ªßÕ8¤£ÔèÄ.
+W
+java:S1161<":Add the "@Override" annotation above this method signature(“–ış8¤£ÔèÄ.
+c
+java:S2142?"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¤£ÔèÄ.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.( ‹İ8¤£ÔèÄ.
+W	java:S125"<This block of commented-out lines of code should be removed.(­×À8¤£ÔèÄ.
+P
+java:S1144!"3Remove this unused private "parseException" method.(”äãµ8¤£ÔèÄ.
+V
+java:S11442"9Remove this unused private "interruptedException" method.(ÚÕ½å8¤£ÔèÄ.

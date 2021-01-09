@@ -1,0 +1,43 @@
+
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ž×ë–Ã.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(ßƒûå8Ž×ë–Ã.
+X	java:S125("<This block of commented-out lines of code should be removed.(‘Í´¶8Ž×ë–Ã.
+Y
+java:S2440"7Remove this instantiation of "ClassInitializationDemo".(¾µãúÿÿÿÿ8Ž×ë–Ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õŽÁµ8Ž×ë–Ã.
+K
+java:S2140&")Use "java.util.Random.nextInt()" instead.(ð¡œüÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ï°Þ¹úÿÿÿÿ8Ž×ë–Ã.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(­¶êÝ8Ž×ë–Ã.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(€èÜãúÿÿÿÿ8Ž×ë–Ã.
+]	java:S125K"<This block of commented-out lines of code should be removed.(·ã¬¨ýÿÿÿÿ8Ž×ë–Ã.
+R
+java:S2209"5Change this instance-reference to a static reference.(‘“¿Ç8Ž×ë–Ã.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(®–šñ8Ž×ë–Ã.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(÷ÌµÏÿÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ŒŽÛöøÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ú†Ûùÿÿÿÿ8Ž×ë–Ã.
+Ž
+java:S1130H"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8Ž×ë–Ã.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(÷ºÔ«8Ž×ë–Ã.
+X	java:S125."<This block of commented-out lines of code should be removed.(´€‹…8Ž×ë–Ã.
+T
+java:S2440"7Remove this instantiation of "ClassInitializationDemo".(‘“¿Ç8Ž×ë–Ã.
+X	java:S125Q"<This block of commented-out lines of code should be removed.(´æÚö8Ž×ë–Ã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½¤¡¨8Ž×ë–Ã.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Ê¼½ª8Ž×ë–Ã.
+W
+java:S2209"5Change this instance-reference to a static reference.(¾µãúÿÿÿÿ8Ž×ë–Ã.
+{
+java:S11714"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(žÿÇ¦ûÿÿÿÿ8Ž×ë–Ã.
+e
+java:S1214"CMove constants defined in this interfaces to another class or enum.(øº¬Øùÿÿÿÿ8Ž×ë–Ã.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ï½£˜üÿÿÿÿ8Ž×ë–Ã.
+{
+java:S1171:"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Ž×ë–Ã.
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(»ŽïÓ8Ž×ë–Ã.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Á½³ÿÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Ê¥ÿÃýÿÿÿÿ8Ž×ë–Ã.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(üöÑšýÿÿÿÿ8Ž×ë–Ã.

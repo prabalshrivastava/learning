@@ -1,0 +1,16 @@
+
+F
+java:S1481"0Remove this unused "calculator1" local variable.(äŞ‡
+U
+java:S1854"?Remove this useless assignment to local variable "calculator1".(äŞ‡
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ
+K
+java:S2440"0Remove this instantiation of "SimpleCalculator".(Úë·úÿÿÿÿ
+F
+java:S2440"0Remove this instantiation of "SimpleCalculator".(äŞ‡
+@
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+K
+java:S1481"0Remove this unused "calculator2" local variable.(Úë·úÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "calculator2".(Úë·úÿÿÿÿ

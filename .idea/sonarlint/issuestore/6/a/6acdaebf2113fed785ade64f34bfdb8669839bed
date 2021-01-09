@@ -1,0 +1,20 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯×àÓ8îóº¸À.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(óëúD8‰™È¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´ª³úüÿÿÿÿ8“ê¯¸À.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ìœ­Î8–¿“¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8¿±û¸À.
+R
+java:S1854"5Remove this useless assignment to local variable "d".(Á€ĞÏ8Ê„Ã¹À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šĞ—Çşÿÿÿÿ8–¨ì¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëç¨âúÿÿÿÿ8Ş´¿¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øáåÂÿÿÿÿÿ8‰Œ¶¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎØáëúÿÿÿÿ8„²å¸À.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8©…¾¹À.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÉéÎåøÿÿÿÿ8‘¶¯¸À.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(§¢î'8¤€Ï¸À.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñÀ•°8ıÓ½¸À.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÂª8Œ•‹¹À.
+C
+java:S1481"&Remove this unused "d" local variable.(Á€ĞÏ8Ê„Ã¹À.

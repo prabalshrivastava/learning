@@ -1,0 +1,15 @@
+
+C	java:S131""Add a default case to this switch.(²À‹ãıÿÿÿÿ8ªÃ ÷Å.
+9
+java:S16430"Use a StringBuilder instead.(ñ¦Á8ÿğã÷Å.
+J
+java:S1199#"-Extract this nested code block into a method.(½¹Ü8ªÃ ÷Å.
+n
+java:S2095W"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8‚»Ç÷Å.
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(²À‹ãıÿÿÿÿ8ªÃ ÷Å.
+J
+java:S1199"-Extract this nested code block into a method.(åæòÇ8ªÃ ÷Å.
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ8Í½Ì÷Å.

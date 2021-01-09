@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ8€ĞŸÅ.
+^
+java:S1854"ARemove this useless assignment to local variable "customerClass".(Åú©Ü8»ìĞœÆ.
+O
+java:S1481"2Remove this unused "customerClass" local variable.(Åú©Ü8»ìĞœÆ.
+X	java:S125	"<This block of commented-out lines of code should be removed.(‡åñï8»ìĞœÆ.
+S
+java:S1128"1Remove this unused import 'java.lang.System.out'.(“×·ôşÿÿÿÿ8»ìĞœÆ.
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(÷íŞ×üÿÿÿÿ8íÓ±Æ.
+›
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(÷íŞ×üÿÿÿÿ8íÓ±Æ.
+š
+java:S1130"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(÷íŞ×üÿÿÿÿ8íÓ±Æ.
+d
+java:S2133"BRemove this object instantiation and use "Customer.class" instead.(âî¤ ùÿÿÿÿ8íÓ±Æ.

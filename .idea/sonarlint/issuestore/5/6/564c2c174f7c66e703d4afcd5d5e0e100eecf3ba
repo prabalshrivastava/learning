@@ -1,0 +1,16 @@
+
+“
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(€ˆâóıÿÿÿÿ8¤£ÔèÄ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎùÃÊ8¤£ÔèÄ.
+W
+java:S1854"5Remove this useless assignment to local variable "x".(âÓûáüÿÿÿÿ8¤£ÔèÄ.
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8¤£ÔèÄ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ã›ûZ8¤£ÔèÄ.
+D
+java:S2440""Remove this instantiation of "I2".(âÓûáüÿÿÿÿ8¤£ÔèÄ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş£Ú‹8¤£ÔèÄ.
+H
+java:S1481"&Remove this unused "x" local variable.(âÓûáüÿÿÿÿ8¤£ÔèÄ.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ù«ÿÿÿÿÿ8¤£ÔèÄ.
+]	java:S125"<This block of commented-out lines of code should be removed.(İó±òùÿÿÿÿ8¤£ÔèÄ.

@@ -1,0 +1,8 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(˜ØÅ¸ûÿÿÿÿ
+C
+java:S1113"-Do not override the Object.finalize() method.(¦½Ø›
+`
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¦½Ø›
+n
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ğ±îˆüÿÿÿÿ

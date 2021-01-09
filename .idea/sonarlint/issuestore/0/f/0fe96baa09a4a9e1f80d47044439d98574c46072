@@ -1,0 +1,9 @@
+
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(åæë¦şÿÿÿÿ8£ôÑÇÆ.
+E	java:S108")Either remove or fill this block of code.(‹±ÃÆ8¢µÍÇÆ.
+H
+java:S1481
+"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8¢µÍÇÆ.
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ßö˜øÿÿÿÿ

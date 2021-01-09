@@ -1,0 +1,31 @@
+
+O
+java:S3740"/Provide the parametrized type for this generic.(ƒ¼ã¼ıÿÿÿÿ8¶§Å.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(º‘æz8¶§Å.
+I
+java:S3740"/Provide the parametrized type for this generic.(™€Íh8¶§Å.
+d
+java:S2259"DA "NullPointerException" could be thrown; "object" is nullable here.(…¢†úøÿÿÿÿ8¶§Å.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(èÎ8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Òàö8¶§Å.
+S
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(šı‰êşÿÿÿÿ8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ò…Û†şÿÿÿÿ8¶§Å.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(‚„ü`8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‘šÎüÿÿÿÿÿ8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(­Ïäüÿÿÿÿ8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë…½ğ8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÉâ®øÿÿÿÿ8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š³—Ê8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÓŒî¾ùÿÿÿÿ8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(á‘Œ8¶§Å.
+^
+java:S2259"CA "NullPointerException" could be thrown; "clazz" is nullable here.(š³—Ê8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(…¢†úøÿÿÿÿ8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ô™…¡ùÿÿÿÿ8¶§Å.
+J
+java:S3740"/Provide the parametrized type for this generic.(ÒÒ½½8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œÓÕ¸8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÚû¼8¶§Å.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰¤ ì8¶§Å.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¢¿¬¶ÿÿÿÿÿ8¶§Å.

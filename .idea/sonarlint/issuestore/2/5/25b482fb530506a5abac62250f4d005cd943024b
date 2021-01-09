@@ -1,0 +1,10 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ν‘­Υ8δένέΖ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Χ·τώÿÿÿÿ8δένέΖ.
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(έ•ύΚψÿÿÿÿ8δένέΖ.
+I
+java:S3011",This accessibility update should be removed.(Σ«§―8δένέΖ.
+E
+java:S1144,"(Remove this unused private "sub" method.(ª§β8δένέΖ.
